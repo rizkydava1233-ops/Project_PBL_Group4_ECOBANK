@@ -1,0 +1,17 @@
+{
+  "name": "EcoBank - Bank Sampah Digital",
+  "short_name": "EcoBank",
+  "description": "Setor sampah, kumpulkan poin, tukar reward.",
+  "lang": "id",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0fbf6",
+  "theme_color": "#22c07a",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
